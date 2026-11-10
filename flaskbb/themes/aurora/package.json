@@ -33,7 +33,7 @@
     "@textcomplete/core": "^0.1.13",
     "@textcomplete/textarea": "^0.1.13",
     "bootstrap": "^5.3.8",
-    "core-js": "^3.50.0",
+    "core-js": "^3.51.0",
     "emoji-regex": "11.0.0",
     "emojilib": "4.0.3",
     "htmx.org": "^2.0.11"
